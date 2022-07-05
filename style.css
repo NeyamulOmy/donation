@@ -117,3 +117,16 @@ input {
 img {
     border-radius: 5px;
 }
+
+.contribute-btn {
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    padding: 10px 10px;
+}
