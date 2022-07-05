@@ -32,6 +32,7 @@
 
 body {
     margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
 .wrapper {
@@ -150,10 +151,15 @@ img {
 }
 
 footer {
+
     background-color: black;
     text-align: center;
     margin: 0;
     padding: 20px 0px;
+}
+
+.lobster {
+    font-family: 'Lobster', cursive;
 }
 
 .subscribe {
@@ -167,4 +173,11 @@ footer {
     font-weight: 700;
     color: white;
     padding: 5px 5px;
+}
+
+.form {
+    background-color: bisque;
+    background-repeat: no-repeat;
+    margin: 0px 450px;
+    padding: 80px;
 }
