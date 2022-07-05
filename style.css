@@ -95,7 +95,7 @@ body {
     margin: 20px;
 }
 
-input {
+.amount-input {
     text-align: center;
     border: none;
     outline: none;
@@ -129,4 +129,42 @@ img {
     font-weight: 700;
     color: white;
     padding: 10px 10px;
+}
+
+.updates h1 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.updates p {
+    text-align: center;
+
+}
+
+.email {
+    text-align: center;
+    padding: 5px;
+    border-right: none;
+    outline: none;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0px;
+}
+
+.subscribe {
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    padding: 5px 5px;
 }
