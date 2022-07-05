@@ -108,3 +108,12 @@ input {
     margin: 10px;
     padding: 20px;
 }
+
+.container {
+    display: flex;
+    text-align: left;
+}
+
+img {
+    border-radius: 5px;
+}
